@@ -108,4 +108,4 @@ insert into hotel_quartos values (10,8);
 insert into hotel_quartos values (10,9);
 insert into hotel_quartos values (10,10);
 
-select *from hotel_quartos;
+select * from hotel_quartos;
